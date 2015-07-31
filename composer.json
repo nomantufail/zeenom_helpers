@@ -6,5 +6,6 @@
 	"type": "project",
 	"require": {
 	
-	}
+	},
+	 "minimum-stability": "stable"
 }
