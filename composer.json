@@ -1,0 +1,10 @@
+{
+	"name": "zeenomlabs/zeenom_helpers",
+	"description": "Zeenomlabs Development Helpers.",
+	"keywords": ["Helpers", "Zeenomlabs"],
+	"license": "ZeenomLabs",
+	"type": "project",
+	"require": {
+	
+	}
+}
